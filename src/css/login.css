@@ -1,0 +1,22 @@
+.login-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("../assets/login-bg.png");
+}
+
+.form {
+    max-width: 350px;
+}
+
+.loginBtn {
+    width: 100%;
+}
+
+.login-card {
+    box-shadow: 0 0 10px 0 black;
+    min-width: 350px;
+    /*margin-right: 200px;*/
+}

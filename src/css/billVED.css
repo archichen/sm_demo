@@ -1,0 +1,13 @@
+.billVED-container {
+    position: absolute;
+    width: 500px;
+}
+
+.billVED-header {
+    background: #387BFC;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

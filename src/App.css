@@ -1,0 +1,31 @@
+.container {
+    height: 100%;
+}
+
+.logoArea {
+    background: #387BFC;
+    color: white;
+    font-size: 28px;
+}
+
+.logo {
+    width: 38px;
+    height: 38px;
+    margin-right: 5px;
+}
+
+.logout {
+}
+
+.logout:hover {
+    color: red;
+}
+
+.searchBar {
+    width: 100%;
+    background: white;
+}
+
+.rightPanel {
+    margin-left: 5px;
+}
